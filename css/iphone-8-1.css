@@ -1,0 +1,2187 @@
+/* screen - desktop-1440 */
+
+.carnation-pink-border-2px {
+  border: 2px solid var(--carnation-pink);
+}
+.desktop-1440 {
+  background-color: var(--desert-storm);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3816px;
+  min-width: 1440px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.desktop-1440 .background-color-C61RwL {
+  background-color: var(--carnation-pink);
+  height: 18.34%;
+  left: -442px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 886px);
+}
+.desktop-1440 .background-image-C61RwL {
+  background-color: transparent;
+  height: 18.34%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.desktop-1440 .banner-blue-C61RwL {
+  background-color: transparent;
+  height: 16.25%;
+  left: -12px;
+  position: absolute;
+  top: 39.52%;
+  width: calc(100.00% + 44px);
+}
+.desktop-1440 .banner-pink-C61RwL {
+  background-color: transparent;
+  height: 15.96%;
+  left: -12px;
+  position: absolute;
+  top: 39.52%;
+  width: calc(100.00% + 44px);
+}
+.desktop-1440 .button-primary-C61RwL {
+  background-color: var(--carnation-pink);
+  border-radius: 3px;
+  height: 39px;
+  left: calc(50.00% - 81px);
+  pointer-events: auto;
+  position: absolute;
+  top: 1131px;
+  transition: all 0.2s ease;
+  width: 110px;
+}
+.desktop-1440 .button-primary-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.desktop-1440 .button-primary-LJ2pJr {
+  background-color: var(--carnation-pink);
+  border-radius: 3px;
+  height: 39px;
+  left: calc(50.00% + 468px);
+  pointer-events: auto;
+  position: absolute;
+  top: 161px;
+  transition: all 0.2s ease;
+  width: 110px;
+}
+.desktop-1440 .button-primary-LJ2pJr:hover {
+
+transform: scale(1.1);
+}
+.desktop-1440 .button-secondary-LJ2pJr {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 39px;
+  left: calc(50.00% + 338px);
+  position: absolute;
+  top: 161px;
+  width: 115px;
+}
+.desktop-1440 .call-to-action-C61RwL {
+  background-color: transparent;
+  height: 250px;
+  left: calc(50.00% - 720px);
+  position: absolute;
+  top: 3464px;
+  width: 1440px;
+}
+.desktop-1440 .card-css-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 207px;
+  left: calc(50.00% - 391px);
+  position: absolute;
+  top: 2616px;
+  width: 198px;
+}
+.desktop-1440 .card-figma-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 203px;
+  left: calc(50.00% - 589px);
+  position: absolute;
+  top: 2712px;
+  width: 198px;
+}
+.desktop-1440 .card-html-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 207px;
+  left: calc(50.00% - 391px);
+  position: absolute;
+  top: 2411px;
+  width: 198px;
+}
+.desktop-1440 .card-kpi-1234-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 421px;
+  left: calc(50.00% + 204px);
+  position: absolute;
+  top: 1657px;
+  width: 395px;
+}
+.desktop-1440 .card-kpi-125-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 421px;
+  left: calc(50.00% - 589px);
+  position: absolute;
+  top: 1657px;
+  width: 395px;
+}
+.desktop-1440 .card-kpi-7-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 421px;
+  left: calc(50.00% - 191px);
+  position: absolute;
+  top: 1657px;
+  width: 395px;
+}
+.desktop-1440 .card-react-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 205px;
+  left: calc(50.00% - 191px);
+  position: absolute;
+  top: 2518px;
+  width: 198px;
+}
+.desktop-1440 .card-sketch-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 198px;
+  left: calc(50.00% - 589px);
+  pointer-events: auto;
+  position: absolute;
+  top: 2514px;
+  transition: all 0.2s ease;
+  width: 198px;
+}
+.desktop-1440 .card-sketch-C61RwL:hover {
+
+}
+.desktop-1440 .card-vue-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 205px;
+  left: calc(50.00% - 191px);
+  position: absolute;
+  top: 2313px;
+  width: 198px;
+}
+.desktop-1440 .cta-background-LJ2pJr {
+  background-color: transparent;
+  height: 100%;
+  left: -432px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 864px);
+}
+.desktop-1440 .e-mail-adresse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 143px);
+  letter-spacing: 0.00px;
+  line-height: 37.2px;
+  position: absolute;
+  text-align: center;
+  top: 3229px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop-1440 .footer-C61RwL {
+  background-color: var(--mine-shaft);
+  height: 102px;
+  left: calc(50.00% - 1104px);
+  position: absolute;
+  top: 3714px;
+  width: 2208px;
+}
+.desktop-1440 .glassmorph-m-circle-1-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 533px;
+  left: calc(50.00% - 586px);
+  position: absolute;
+  top: 35px;
+  width: 533px;
+}
+.desktop-1440 .glassmorph-m-circle-2-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 231px;
+  left: calc(50.00% - 225px);
+  position: absolute;
+  top: 336px;
+  width: 231px;
+}
+.desktop-1440 .glassmorph-m-circle-3-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 186px;
+  left: calc(50.00% - 310px);
+  position: absolute;
+  top: 457px;
+  width: 186px;
+}
+.desktop-1440 .h1-divider-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% + 213px);
+  position: absolute;
+  top: 308px;
+  width: 78px;
+}
+.desktop-1440 .h2-divider-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% + 213px);
+  position: absolute;
+  top: 2392px;
+  width: 82px;
+}
+.desktop-1440 .h2-divider-VMr6Om {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 30px);
+  position: absolute;
+  top: 1430px;
+  width: 90px;
+}
+.desktop-1440 .h2-divider-mzXdH9 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 81px);
+  position: absolute;
+  top: 944px;
+  width: 90px;
+}
+.desktop-1440 .habe-ich-d-eeindruckt-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 271px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: center;
+  top: 3057px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop-1440 .ich-bin-webdesigner-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% + 213px);
+  letter-spacing: 0.00px;
+  line-height: 62.8px;
+  position: absolute;
+  text-align: left;
+  top: 169px;
+  width: 369px;
+}
+.desktop-1440 .infomaxmustermanncom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 128px);
+  letter-spacing: 0.00px;
+  line-height: 31.0px;
+  position: absolute;
+  text-align: center;
+  top: 3274px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop-1440 .kenntnisse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 213px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: left;
+  top: 2322px;
+  white-space: nowrap;
+  width: 391px;
+}
+.desktop-1440 .link-styling-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 333px);
+  position: absolute;
+  top: 3304px;
+  width: 143px;
+}
+.desktop-1440 .link-styling-VMr6Om {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% + 127px);
+  position: absolute;
+  top: 3304px;
+  width: 228px;
+}
+.desktop-1440 .lorem-ipsu--gubergren-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 80px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 976px;
+  width: 366px;
+}
+.desktop-1440 .lorem-ipsu-et-accusam-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% + 213px);
+  letter-spacing: 0.00px;
+  line-height: 31.0px;
+  position: absolute;
+  text-align: left;
+  top: 340px;
+  width: 369px;
+}
+.desktop-1440 .lorem-ipsu-mod-tempor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 213px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: center;
+  top: 3128px;
+  width: 390px;
+}
+.desktop-1440 .lorem-ipsu-quyam-erat-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 197px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: center;
+  top: 1462px;
+  width: 427px;
+}
+.desktop-1440 .lorem-ipsu-quyam-erat-Icuk3e {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 179px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 124px;
+  width: 359px;
+}
+.desktop-1440 .lorem-ipsu-quyam-erat-LJ2pJr {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 577px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 124px;
+  width: 359px;
+}
+.desktop-1440 .lorem-ipsu-r-sit-amet-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 214px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 2423px;
+  width: 366px;
+}
+.desktop-1440 .max-mustermann-C61RwL {
+  background-color: transparent;
+  height: 363px;
+  left: calc(50.00% - 576px);
+  position: absolute;
+  top: 837px;
+  width: 363px;
+}
+.desktop-1440 .meine-arbe--in-zahlen-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 198px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: center;
+  top: 1361px;
+  white-space: nowrap;
+  width: 428px;
+}
+.desktop-1440 .meine-philosophie-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 81px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: left;
+  top: 875px;
+  white-space: nowrap;
+  width: 428px;
+}
+.desktop-1440 .mouse-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 47px;
+  left: calc(50.00% - 12px);
+  position: absolute;
+  top: 677px;
+  width: 27px;
+}
+.desktop-1440 .mouse-whitespace-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: calc(50.00% - 63px);
+  position: absolute;
+  top: 635px;
+  width: 130px;
+}
+.desktop-1440 .persona-C61RwL {
+  background-color: transparent;
+  height: 459px;
+  left: calc(50.00% - 555px);
+  position: absolute;
+  top: 65px;
+  width: 459px;
+}
+.desktop-1440 .scrolling-C61RwL {
+  background-color: transparent;
+  height: 10px;
+  left: 50.00%;
+  position: absolute;
+  top: 684px;
+  width: 2px;
+}
+.desktop-1440 .shadow-1-C61RwL {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 446px);
+  position: absolute;
+  top: 2360px;
+  width: 295px;
+}
+.desktop-1440 .shadow-2-C61RwL {
+  background-color: transparent;
+  height: 363px;
+  left: calc(50.00% - 671px);
+  position: absolute;
+  top: 2448px;
+  width: 363px;
+}
+.desktop-1440 .shadow-3-C61RwL {
+  background-color: transparent;
+  height: 363px;
+  left: calc(50.00% - 273px);
+  position: absolute;
+  top: 2247px;
+  width: 363px;
+}
+.desktop-1440 .shadow-4-C61RwL {
+  background-color: transparent;
+  height: 320px;
+  left: calc(50.00% - 455px);
+  position: absolute;
+  top: 2554px;
+  width: 319px;
+}
+.desktop-1440 .shadow-5-C61RwL {
+  background-color: transparent;
+  height: 327px;
+  left: calc(50.00% - 653px);
+  position: absolute;
+  top: 2673px;
+  width: 327px;
+}
+.desktop-1440 .shadow-6-C61RwL {
+  background-color: transparent;
+  height: 327px;
+  left: calc(50.00% - 255px);
+  position: absolute;
+  top: 2472px;
+  width: 327px;
+}
+.desktop-1440 .span1-I4mnVW {
+  color: rgba(3,28,166,1.0);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.desktop-1440 .span2-I4mnVW {
+  color: rgba(3,28,166,1.0);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.80px;
+}
+.desktop-1440 .telefonnummer-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 359px);
+  letter-spacing: 0.00px;
+  line-height: 37.2px;
+  position: absolute;
+  text-align: center;
+  top: 3229px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop-1440 .this-is-a--2-headline-LJ2pJr {
+  background-color: transparent;
+  color: var(--brilliant-rose);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 576px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 428px;
+}
+.desktop-1440 .this-is-text-7JM8KK {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.desktop-1440 .this-is-text-Jw1J1D {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.desktop-1440 .this-is-text-PxQnxq {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.desktop-1440 .x0012-3456789-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 332px);
+  letter-spacing: 0.00px;
+  line-height: 31.0px;
+  position: absolute;
+  text-align: center;
+  top: 3274px;
+  white-space: nowrap;
+  width: auto;
+}
+.jost-bold-carnation-pink-16px {
+  color: var(--carnation-pink);
+  font-family: "Jost", Helvetica, Arial, serif;
+  font-size: 16px;
+}
+.jost-bold-white-16px {
+  color: var(--white);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.jost-regular-normal-black-20px {
+  color: var(--black);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-white-16px {
+  color: var(--white);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mine-shaft-border-2px {
+  border: 2px solid var(--mine-shaft);
+}
+.poppins-bold-carnation-pink-32px {
+  color: var(--carnation-pink);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.poppins-bold-carnation-pink-36px {
+  color: var(--carnation-pink);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+.poppins-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --brilliant-rose: rgba(242,92,162,1.0);
+  --carnation-pink: rgba(3,28,166,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --mine-shaft: rgba(51,51,51,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - ipad-pro-129-1 */
+
+.carnation-pink-border-2px {
+  border: 2px solid var(--carnation-pink);
+}
+.ipad-pro-129-1 {
+  background-color: var(--desert-storm);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3633px;
+  min-width: 1024px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.ipad-pro-129-1 .background-color-C61RwL {
+  background-color: var(--carnation-pink);
+  height: 19.27%;
+  left: -207px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 415px);
+}
+.ipad-pro-129-1 .background-image-C61RwL {
+  background-color: transparent;
+  height: 19.27%;
+  left: calc(50.00% - 719px);
+  position: absolute;
+  top: 0px;
+  width: 1438px;
+}
+.ipad-pro-129-1 .banner-blue-C61RwL {
+  background-color: transparent;
+  height: 15.99%;
+  left: calc(50.00% - 732px);
+  position: absolute;
+  top: 41.56%;
+  width: 1483px;
+}
+.ipad-pro-129-1 .banner-pink-C61RwL {
+  background-color: transparent;
+  height: 15.74%;
+  left: calc(50.00% - 732px);
+  position: absolute;
+  top: 41.55%;
+  width: 1483px;
+}
+.ipad-pro-129-1 .button-primary-C61RwL {
+  background-color: var(--carnation-pink);
+  border-radius: 3px;
+  height: 39px;
+  left: calc(50.00% + 10px);
+  pointer-events: auto;
+  position: absolute;
+  top: 1055px;
+  transition: all 0.2s ease;
+  width: 110px;
+}
+.ipad-pro-129-1 .button-primary-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.ipad-pro-129-1 .button-primary-LJ2pJr {
+  background-color: var(--carnation-pink);
+  border-radius: 3px;
+  height: 15.60%;
+  left: 83.80%;
+  pointer-events: auto;
+  position: absolute;
+  top: 73.60%;
+  transition: all 0.2s ease;
+  width: 10.73%;
+}
+.ipad-pro-129-1 .button-primary-LJ2pJr:hover {
+
+transform: scale(1.1);
+}
+.ipad-pro-129-1 .button-secondary-LJ2pJr {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 15.60%;
+  left: 70.63%;
+  pointer-events: auto;
+  position: absolute;
+  top: 73.60%;
+  transition: all 0.2s ease;
+  width: 11.22%;
+}
+.ipad-pro-129-1 .button-secondary-LJ2pJr:hover {
+
+transform: scale(1.1);
+}
+.ipad-pro-129-1 .call-to-action-C61RwL {
+  background-color: transparent;
+  height: 250px;
+  left: calc(50.00% - 513px);
+  position: absolute;
+  top: 3255px;
+  width: 1025px;
+}
+.ipad-pro-129-1 .card-css-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 207px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 2484px;
+  width: 164px;
+}
+.ipad-pro-129-1 .card-figma-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 203px;
+  left: calc(50.00% - 461px);
+  position: absolute;
+  top: 2580px;
+  width: 164px;
+}
+.ipad-pro-129-1 .card-html-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 207px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 2279px;
+  width: 164px;
+}
+.ipad-pro-129-1 .card-kpi-1234-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 508px;
+  left: calc(50.00% + 155px);
+  position: absolute;
+  top: 1545px;
+  width: 318px;
+}
+.ipad-pro-129-1 .card-kpi-125-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 508px;
+  left: calc(50.00% - 461px);
+  position: absolute;
+  top: 1545px;
+  width: 318px;
+}
+.ipad-pro-129-1 .card-kpi-7-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 508px;
+  left: calc(50.00% - 153px);
+  position: absolute;
+  top: 1545px;
+  width: 318px;
+}
+.ipad-pro-129-1 .card-react-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 205px;
+  left: calc(50.00% - 153px);
+  position: absolute;
+  top: 2386px;
+  width: 164px;
+}
+.ipad-pro-129-1 .card-sketch-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 198px;
+  left: calc(50.00% - 461px);
+  pointer-events: auto;
+  position: absolute;
+  top: 2382px;
+  transition: all 0.2s ease;
+  width: 164px;
+}
+.ipad-pro-129-1 .card-sketch-C61RwL:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.ipad-pro-129-1 .card-vue-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 205px;
+  left: calc(50.00% - 153px);
+  position: absolute;
+  top: 2181px;
+  width: 164px;
+}
+.ipad-pro-129-1 .cta-background-LJ2pJr {
+  background-color: transparent;
+  height: 110.40%;
+  left: -20.20%;
+  position: absolute;
+  top: 0px;
+  width: 140.39%;
+}
+.ipad-pro-129-1 .e-mail-adresse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 145px);
+  letter-spacing: 0.00px;
+  line-height: 37.2px;
+  position: absolute;
+  text-align: center;
+  top: 3040px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-pro-129-1 .footer-C61RwL {
+  background-color: var(--mine-shaft);
+  height: 102px;
+  left: calc(50.00% - 720px);
+  position: absolute;
+  top: 3531px;
+  width: 1440px;
+}
+.ipad-pro-129-1 .glassmorph-m-circle-1-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 448px;
+  left: calc(50.00% - 452px);
+  position: absolute;
+  top: 38px;
+  width: 448px;
+}
+.ipad-pro-129-1 .glassmorph-m-circle-2-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 198px;
+  left: calc(50.00% - 152px);
+  position: absolute;
+  top: 289px;
+  width: 198px;
+}
+.ipad-pro-129-1 .glassmorph-m-circle-3-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 159px;
+  left: calc(50.00% - 222px);
+  position: absolute;
+  top: 389px;
+  width: 160px;
+}
+.ipad-pro-129-1 .h1-divider-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% + 88px);
+  position: absolute;
+  top: 278px;
+  width: 78px;
+}
+.ipad-pro-129-1 .h2-divider-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% + 164px);
+  position: absolute;
+  top: 2262px;
+  width: 82px;
+}
+.ipad-pro-129-1 .h2-divider-VMr6Om {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 45px);
+  position: absolute;
+  top: 1362px;
+  width: 90px;
+}
+.ipad-pro-129-1 .h2-divider-mzXdH9 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% + 10px);
+  position: absolute;
+  top: 892px;
+  width: 90px;
+}
+.ipad-pro-129-1 .habe-ich-d-eeindruckt-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 269px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: center;
+  top: 2868px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-pro-129-1 .ich-bin-webdesigner-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% + 88px);
+  letter-spacing: 0.00px;
+  line-height: 62.8px;
+  position: absolute;
+  text-align: left;
+  top: 139px;
+  width: 369px;
+}
+.ipad-pro-129-1 .infomaxmustermanncom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 130px);
+  letter-spacing: 0.00px;
+  line-height: 31.0px;
+  position: absolute;
+  text-align: center;
+  top: 3085px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-pro-129-1 .kenntnisse-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 164px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: left;
+  top: 2193px;
+  white-space: nowrap;
+  width: 290px;
+}
+.ipad-pro-129-1 .link-styling-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 331px);
+  position: absolute;
+  top: 3114px;
+  width: 143px;
+}
+.ipad-pro-129-1 .link-styling-VMr6Om {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% + 129px);
+  position: absolute;
+  top: 3114px;
+  width: 228px;
+}
+.ipad-pro-129-1 .lorem-ipsu--gubergren-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 11px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 924px;
+  width: 440px;
+}
+.ipad-pro-129-1 .lorem-ipsu-m-voluptua-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% + 88px);
+  letter-spacing: 0.00px;
+  line-height: 31.0px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  width: 369px;
+}
+.ipad-pro-129-1 .lorem-ipsu-mod-tempor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 211px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: center;
+  top: 2939px;
+  width: 390px;
+}
+.ipad-pro-129-1 .lorem-ipsu-quyam-erat-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 212px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: center;
+  top: 1393px;
+  width: 427px;
+}
+.ipad-pro-129-1 .lorem-ipsu-quyam-erat-Icuk3e {
+  background-color: transparent;
+  height: 39.60%;
+  left: 36.39%;
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 49.60%;
+  width: 28.00%;
+}
+.ipad-pro-129-1 .lorem-ipsu-quyam-erat-LJ2pJr {
+  background-color: transparent;
+  height: 39.60%;
+  left: 6.15%;
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 49.60%;
+  width: 28.20%;
+}
+.ipad-pro-129-1 .lorem-ipsu-r-sit-amet-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 165px);
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 2294px;
+  width: 288px;
+}
+.ipad-pro-129-1 .max-mustermann-C61RwL {
+  background-color: transparent;
+  height: 282px;
+  left: calc(50.00% - 446px);
+  position: absolute;
+  top: 829px;
+  width: 282px;
+}
+.ipad-pro-129-1 .meine-arbe--in-zahlen-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 213px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: center;
+  top: 1292px;
+  white-space: nowrap;
+  width: 428px;
+}
+.ipad-pro-129-1 .meine-philosophie-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 10px);
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: left;
+  top: 823px;
+  white-space: nowrap;
+  width: 428px;
+}
+.ipad-pro-129-1 .mouse-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 37px;
+  left: calc(50.00% - 9px);
+  position: absolute;
+  top: 682px;
+  width: 21px;
+}
+.ipad-pro-129-1 .mouse-whitespace-C61RwL {
+  background-color: transparent;
+  height: 102px;
+  left: calc(50.00% - 49px);
+  position: absolute;
+  top: 649px;
+  width: 102px;
+}
+.ipad-pro-129-1 .persona-C61RwL {
+  background-color: transparent;
+  height: 382px;
+  left: calc(50.00% - 424px);
+  position: absolute;
+  top: 65px;
+  width: 382px;
+}
+.ipad-pro-129-1 .scrolling-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 50.00%;
+  position: absolute;
+  top: 688px;
+  width: 2px;
+}
+.ipad-pro-129-1 .shadow-1-C61RwL {
+  background-color: transparent;
+  height: 296px;
+  left: calc(50.00% - 364px);
+  position: absolute;
+  top: 2228px;
+  width: 234px;
+}
+.ipad-pro-129-1 .shadow-2-C61RwL {
+  background-color: transparent;
+  height: 363px;
+  left: calc(50.00% - 542px);
+  position: absolute;
+  top: 2316px;
+  width: 288px;
+}
+.ipad-pro-129-1 .shadow-3-C61RwL {
+  background-color: transparent;
+  height: 363px;
+  left: calc(50.00% - 226px);
+  position: absolute;
+  top: 2115px;
+  width: 288px;
+}
+.ipad-pro-129-1 .shadow-4-C61RwL {
+  background-color: transparent;
+  height: 320px;
+  left: calc(50.00% - 371px);
+  position: absolute;
+  top: 2422px;
+  width: 254px;
+}
+.ipad-pro-129-1 .shadow-5-C61RwL {
+  background-color: transparent;
+  height: 327px;
+  left: calc(50.00% - 528px);
+  position: absolute;
+  top: 2541px;
+  width: 260px;
+}
+.ipad-pro-129-1 .shadow-6-C61RwL {
+  background-color: transparent;
+  height: 327px;
+  left: calc(50.00% - 212px);
+  position: absolute;
+  top: 2340px;
+  width: 260px;
+}
+.ipad-pro-129-1 .span1-I4mnVW {
+  color: rgba(3,28,166,1.0);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.ipad-pro-129-1 .span2-I4mnVW {
+  color: rgba(3,28,166,1.0);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.80px;
+}
+.ipad-pro-129-1 .telefonnummer-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 357px);
+  letter-spacing: 0.00px;
+  line-height: 37.2px;
+  position: absolute;
+  text-align: center;
+  top: 3040px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-pro-129-1 .this-is-a--2-headline-LJ2pJr {
+  background-color: transparent;
+  color: var(--brilliant-rose);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 22.40%;
+  left: 6.15%;
+  letter-spacing: 0.00px;
+  line-height: 55.7px;
+  position: absolute;
+  text-align: left;
+  top: 16.80%;
+  white-space: nowrap;
+  width: 37.95%;
+}
+.ipad-pro-129-1 .this-is-text-7JM8KK {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.ipad-pro-129-1 .this-is-text-Jw1J1D {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.ipad-pro-129-1 .this-is-text-PxQnxq {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.ipad-pro-129-1 .x0012-3456789-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 330px);
+  letter-spacing: 0.00px;
+  line-height: 31.0px;
+  position: absolute;
+  text-align: center;
+  top: 3085px;
+  white-space: nowrap;
+  width: auto;
+}
+.jost-bold-carnation-pink-16px {
+  color: var(--carnation-pink);
+  font-family: "Jost", Helvetica, Arial, serif;
+  font-size: 16px;
+}
+.jost-bold-white-16px {
+  color: var(--white);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.jost-regular-normal-black-20px {
+  color: var(--black);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-white-16px {
+  color: var(--white);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mine-shaft-border-2px {
+  border: 2px solid var(--mine-shaft);
+}
+.poppins-bold-carnation-pink-32px {
+  color: var(--carnation-pink);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.poppins-bold-carnation-pink-36px {
+  color: var(--carnation-pink);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+.poppins-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --brilliant-rose: rgba(242,92,162,1.0);
+  --carnation-pink: rgba(3,28,166,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --mine-shaft: rgba(51,51,51,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+/* screen - iphone-8-1 */
+
+.carnation-pink-border-2px {
+  border: 2px solid var(--carnation-pink);
+}
+.iphone-8-1 {
+  background-color: var(--desert-storm);
+  height: 100vh;
+  margin: 0px;
+  min-height: 4918px;
+  min-width: 375px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.iphone-8-1 .background-color-C61RwL {
+  background-color: var(--carnation-pink);
+  height: 700px;
+  left: calc(50.00% - 512px);
+  position: absolute;
+  top: -1px;
+  width: 1023px;
+}
+.iphone-8-1 .background-image-C61RwL {
+  background-color: transparent;
+  height: 700px;
+  left: calc(50.00% - 512px);
+  position: absolute;
+  top: -1px;
+  width: 1022px;
+}
+.iphone-8-1 .banner-blue-C61RwL {
+  background-color: transparent;
+  height: 30.07%;
+  left: -12px;
+  position: absolute;
+  top: 27.38%;
+  width: calc(100.00% + 35px);
+}
+.iphone-8-1 .banner-pink-C61RwL {
+  background-color: transparent;
+  height: 30.05%;
+  left: -12px;
+  position: absolute;
+  top: 27.38%;
+  width: calc(100.00% + 35px);
+}
+.iphone-8-1 .button-primary-C61RwL {
+  background-color: var(--carnation-pink);
+  border-radius: 3px;
+  height: 39px;
+  left: calc(50.00% - 158px);
+  position: absolute;
+  top: 962px;
+  width: 110px;
+}
+.iphone-8-1 .button-primary-u1wsnB {
+  background-color: var(--carnation-pink);
+  border-radius: 3px;
+  height: 100%;
+  left: 54.55%;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 45.45%;
+}
+.iphone-8-1 .button-primary-u1wsnB:hover {
+
+transform: scale(1.1);
+}
+.iphone-8-1 .button-secondary-u1wsnB {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 100%;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 47.52%;
+}
+.iphone-8-1 .button-secondary-u1wsnB:hover {
+
+transform: scale(1.1);
+}
+.iphone-8-1 .call-to-action-C61RwL {
+  background-color: transparent;
+  height: 498px;
+  left: calc(50.00% - 510px);
+  position: absolute;
+  top: 4315px;
+  width: 1018px;
+}
+.iphone-8-1 .card-css-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 204px;
+  left: 50.00%;
+  position: absolute;
+  top: 3348px;
+  width: 175px;
+}
+.iphone-8-1 .card-figma-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 200px;
+  left: 50.00%;
+  position: absolute;
+  top: 3160px;
+  width: 177px;
+}
+.iphone-8-1 .card-html-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 204px;
+  left: calc(50.00% - 168px);
+  position: absolute;
+  top: 3348px;
+  width: 175px;
+}
+.iphone-8-1 .card-kpi-1234-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 456px;
+  left: calc(50.00% - 168px);
+  position: absolute;
+  top: 2305px;
+  width: 345px;
+}
+.iphone-8-1 .card-kpi-125-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 422px;
+  left: calc(50.00% - 168px);
+  position: absolute;
+  top: 1423px;
+  width: 345px;
+}
+.iphone-8-1 .card-kpi-7-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 456px;
+  left: calc(50.00% - 168px);
+  position: absolute;
+  top: 1847px;
+  width: 345px;
+}
+.iphone-8-1 .card-react-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 202px;
+  left: calc(50.00% - 168px);
+  position: absolute;
+  top: 3543px;
+  width: 177px;
+}
+.iphone-8-1 .card-sketch-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 195px;
+  left: calc(50.00% - 166px);
+  position: absolute;
+  top: 3160px;
+  width: 177px;
+}
+.iphone-8-1 .card-vue-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 202px;
+  left: 50.00%;
+  position: absolute;
+  top: 3543px;
+  width: 177px;
+}
+.iphone-8-1 .e-mail-adresse-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 34.1px;
+  position: absolute;
+  text-align: left;
+  top: 4151px;
+  white-space: nowrap;
+  width: auto;
+}
+.iphone-8-1 .footer-C61RwL {
+  background-color: var(--mine-shaft);
+  height: 2.07%;
+  left: 0px;
+  position: absolute;
+  top: 97.93%;
+  width: calc(100.00% + 2px);
+}
+.iphone-8-1 .frame-13-FKTSyb {
+  background-color: transparent;
+  height: 212px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 318px;
+}
+.iphone-8-1 .frame-14-bnMbaO {
+  background-color: transparent;
+  height: 39px;
+  left: 74px;
+  position: absolute;
+  top: 322px;
+  width: 242px;
+}
+.iphone-8-1 .frame-15-5kCSFS {
+  background-color: transparent;
+  height: 361px;
+  left: 354px;
+  position: relative;
+  top: 70px;
+  width: 316px;
+}
+.iphone-8-1 .frame-16-LJ2pJr {
+  background-color: transparent;
+  background-image: url(../img/frame-16@1x.png);
+  background-size: 100% 100%;
+  height: 501px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1023px;
+}
+.iphone-8-1 .glassmorph-m-circle-1-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 312px;
+  left: calc(50.00% - 161px);
+  position: absolute;
+  top: 37px;
+  width: 312px;
+}
+.iphone-8-1 .glassmorph-m-circle-2-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 143px;
+  left: calc(50.00% + 42px);
+  position: absolute;
+  top: 206px;
+  width: 142px;
+}
+.iphone-8-1 .glassmorph-m-circle-3-C61RwL {
+  -webkit-backdrop-filter: blur(30px) brightness(100%);;
+  backdrop-filter: blur(30px) brightness(100%);;
+  background-color: transparent;
+  height: 117px;
+  left: calc(50.00% - 6px);
+  position: absolute;
+  top: 273px;
+  width: 118px;
+}
+.iphone-8-1 .h1-divider-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 159px);
+  position: absolute;
+  top: 476px;
+  width: 78px;
+}
+.iphone-8-1 .h2-divider-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 158px);
+  position: absolute;
+  top: 3926px;
+  width: 90px;
+}
+.iphone-8-1 .h2-divider-QxM5SU {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 158px);
+  position: absolute;
+  top: 800px;
+  width: 90px;
+}
+.iphone-8-1 .h2-divider-VMr6Om {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 158px);
+  position: absolute;
+  top: 2944px;
+  width: 90px;
+}
+.iphone-8-1 .h2-divider-mzXdH9 {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 160px);
+  position: absolute;
+  top: 1202px;
+  width: 90px;
+}
+.iphone-8-1 .habe-ich-d-eeindruckt-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 49.5px;
+  position: absolute;
+  text-align: left;
+  top: 3812px;
+  width: 317px;
+}
+.iphone-8-1 .ich-bin-webdesigner-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 52.3px;
+  position: absolute;
+  text-align: left;
+  top: 358px;
+  width: 317px;
+}
+.iphone-8-1 .infomaxmustermanncom-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 156px);
+  letter-spacing: 0.00px;
+  line-height: 27.9px;
+  position: absolute;
+  text-align: center;
+  top: 4196px;
+  white-space: nowrap;
+  width: auto;
+}
+.iphone-8-1 .kenntnisse-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 49.5px;
+  position: absolute;
+  text-align: left;
+  top: 2881px;
+  white-space: nowrap;
+  width: 317px;
+}
+.iphone-8-1 .link-styling-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 156px);
+  position: absolute;
+  top: 4120px;
+  width: 120px;
+}
+.iphone-8-1 .link-styling-VMr6Om {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 156px);
+  position: absolute;
+  top: 4226px;
+  width: 204px;
+}
+.iphone-8-1 .lorem-ipsu--gubergren-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  position: absolute;
+  text-align: left;
+  top: 1234px;
+  width: 316px;
+}
+.iphone-8-1 .lorem-ipsu--gubergren-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 156px);
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  position: absolute;
+  text-align: left;
+  top: 831px;
+  width: 316px;
+}
+.iphone-8-1 .lorem-ipsu-m-voluptua-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 27.9px;
+  position: absolute;
+  text-align: left;
+  top: 507px;
+  width: 317px;
+}
+.iphone-8-1 .lorem-ipsu-mod-tempor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 156px);
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  position: absolute;
+  text-align: left;
+  top: 3957px;
+  width: 316px;
+}
+.iphone-8-1 .lorem-ipsu-quyam-erat-3qRedS {
+  background-color: transparent;
+  height: 46.70%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 100%;
+}
+.iphone-8-1 .lorem-ipsu-quyam-erat-jhkzLy {
+  background-color: transparent;
+  height: 46.23%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.8px;
+  position: absolute;
+  text-align: left;
+  top: 53.77%;
+  width: 94.03%;
+}
+.iphone-8-1 .lorem-ipsu-r-sit-amet-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  position: absolute;
+  text-align: left;
+  top: 2976px;
+  width: 316px;
+}
+.iphone-8-1 .meine-arbe--in-zahlen-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% - 160px);
+  letter-spacing: 0.00px;
+  line-height: 49.5px;
+  position: absolute;
+  text-align: left;
+  top: 1089px;
+  width: 317px;
+}
+.iphone-8-1 .meine-philosphie-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 49.5px;
+  position: absolute;
+  text-align: left;
+  top: 736px;
+  white-space: nowrap;
+  width: 323px;
+}
+.iphone-8-1 .mouse-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 27px;
+  left: calc(50.00% - 12px);
+  position: absolute;
+  top: 686px;
+  width: 16px;
+}
+.iphone-8-1 .mouse-whitespace-C61RwL {
+  background-color: transparent;
+  height: 74px;
+  left: calc(50.00% - 40px);
+  position: absolute;
+  top: 662px;
+  width: 70px;
+}
+.iphone-8-1 .persona-C61RwL {
+  background-color: transparent;
+  height: 257px;
+  left: calc(50.00% - 139px);
+  position: absolute;
+  top: 58px;
+  width: 257px;
+}
+.iphone-8-1 .scrolling-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: calc(50.00% - 7px);
+  position: absolute;
+  top: 692px;
+  width: 2px;
+}
+.iphone-8-1 .shadow-10-C61RwL {
+  background-color: transparent;
+  height: 243px;
+  left: calc(50.00% - 46px);
+  position: absolute;
+  top: 3516px;
+  width: 243px;
+}
+.iphone-8-1 .shadow-5-C61RwL {
+  background-color: transparent;
+  height: 243px;
+  left: calc(50.00% - 206px);
+  position: absolute;
+  top: 3130px;
+  width: 243px;
+}
+.iphone-8-1 .shadow-6-C61RwL {
+  background-color: transparent;
+  height: 243px;
+  left: calc(50.00% - 46px);
+  position: absolute;
+  top: 3130px;
+  width: 243px;
+}
+.iphone-8-1 .shadow-7-C61RwL {
+  background-color: transparent;
+  height: 243px;
+  left: calc(50.00% - 206px);
+  position: absolute;
+  top: 3316px;
+  width: 243px;
+}
+.iphone-8-1 .shadow-8-C61RwL {
+  background-color: transparent;
+  height: 243px;
+  left: calc(50.00% - 46px);
+  position: absolute;
+  top: 3316px;
+  width: 243px;
+}
+.iphone-8-1 .shadow-9-C61RwL {
+  background-color: transparent;
+  height: 243px;
+  left: calc(50.00% - 206px);
+  position: absolute;
+  top: 3516px;
+  width: 243px;
+}
+.iphone-8-1 .span1-W3z0dM {
+  color: rgba(3,28,166,1.0);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.iphone-8-1 .span2-W3z0dM {
+  color: rgba(3,28,166,1.0);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.80px;
+}
+.iphone-8-1 .telefonnummer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: calc(50.00% - 156px);
+  letter-spacing: 0.00px;
+  line-height: 34.1px;
+  position: absolute;
+  text-align: left;
+  top: 4045px;
+  white-space: nowrap;
+  width: auto;
+}
+.iphone-8-1 .text-area-cta-bnMbaO {
+  background-color: transparent;
+  height: 80.89%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.iphone-8-1 .this-is-a--2-headline-FKTSyb {
+  background-color: transparent;
+  color: var(--brilliant-rose);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: 17.12%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 49.5px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 100%;
+}
+.iphone-8-1 .this-is-text-Jw1J1D {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.iphone-8-1 .this-is-text-aMX76h {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.iphone-8-1 .this-is-text-wBSIOE {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+.iphone-8-1 .x0012-3456789-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 156px);
+  letter-spacing: 0.00px;
+  line-height: 27.9px;
+  position: absolute;
+  text-align: center;
+  top: 4090px;
+  white-space: nowrap;
+  width: auto;
+}
+.jost-bold-carnation-pink-16px {
+  color: var(--carnation-pink);
+  font-family: "Jost", Helvetica, Arial, serif;
+  font-size: 16px;
+}
+.jost-bold-white-16px {
+  color: var(--white);
+  font-family: 'Jost-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.jost-regular-normal-black-20px {
+  color: var(--black);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.jost-regular-normal-white-16px {
+  color: var(--white);
+  font-family: 'Jost-Regular', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mine-shaft-border-2px {
+  border: 2px solid var(--mine-shaft);
+}
+.poppins-bold-carnation-pink-32px {
+  color: var(--carnation-pink);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.poppins-bold-carnation-pink-36px {
+  color: var(--carnation-pink);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+.poppins-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --brilliant-rose: rgba(242,92,162,1.0);
+  --carnation-pink: rgba(3,28,166,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --mine-shaft: rgba(51,51,51,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+@media screen and (max-width: 1023px) {
+  .desktop-1440 { 
+    display: none;
+   }
+  .ipad-pro-129-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .desktop-1440 { 
+    display: none;
+   }
+  .iphone-8-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .ipad-pro-129-1 { 
+    display: none;
+   }
+  .iphone-8-1 { 
+    display: none;
+   }
+}
